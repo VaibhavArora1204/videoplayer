@@ -1,0 +1,14 @@
+http
+
+uri,url,urn
+
+1.http headers-(used for caching,auth, managing state(guest,loggedin,admin))
+meta- key value pairs sent along with req and res
+
+req headers- from client
+res headers- from server
+representation headers- encoding/compression    
+payload headers- data
+
+
+2. common headers
